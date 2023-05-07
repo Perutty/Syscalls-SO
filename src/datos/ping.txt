@@ -1,0 +1,11 @@
+Haciendo ping a www.google.com [142.250.78.164] con 32 bytes de datos:
+Respuesta desde 142.250.78.164: bytes=32 tiempo=31ms TTL=118
+Respuesta desde 142.250.78.164: bytes=32 tiempo=31ms TTL=118
+Respuesta desde 142.250.78.164: bytes=32 tiempo=36ms TTL=118
+
+Estad�sticas de ping para 142.250.78.164:
+    Paquetes: enviados = 3, recibidos = 3, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M�nimo = 31ms, M�ximo = 36ms, Media = 32ms
+Codigo: 0

@@ -1,0 +1,1922 @@
+Comando tree: P�gina de c�digos activa: 65001
+Listado de rutas de carpetas para el volumen Windows
+El n�mero de serie del volumen es A025-E3A0
+C:\USERS\BP_RM\ECLIPSE
++---java-2022-12
+�   +---eclipse
+�       +---configuration
+�       �   +---.settings
+�       �   +---org.eclipse.core.runtime
+�       �   �   +---.manager
+�       �   +---org.eclipse.e4.ui.css.swt.theme
+�       �   +---org.eclipse.epp.mpc.ui
+�       �   +---org.eclipse.equinox.app
+�       �   �   +---.manager
+�       �   +---org.eclipse.equinox.simpleconfigurator
+�       �   +---org.eclipse.oomph.setup
+�       �   +---org.eclipse.osgi
+�       �   �   +---.manager
+�       �   �   +---119
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---120
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---ovr16
+�       �   �   +---121
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---images
+�       �   �   +---133
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   +---137
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---elcl16
+�       �   �   �               +---etool16
+�       �   �   �               +---eview16
+�       �   �   �               +---obj16
+�       �   �   +---149
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---177
+�       �   �   �   +---data
+�       �   �   �       +----1870652701
+�       �   �   +---185
+�       �   �   �   +---data
+�       �   �   �       +---listener_1925729951
+�       �   �   +---191
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj
+�       �   �   +---192
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---wizban
+�       �   �   +---194
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj
+�       �   �   +---197
+�       �   �   �   +---data
+�       �   �   �       +----763369214
+�       �   �   +---220
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   +---222
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---228
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dictionaries
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   �                   +---wizban
+�       �   �   +---236
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           �   +---full
+�       �   �   �           +---org
+�       �   �   �               +---eclipse
+�       �   �   �                   +---jface
+�       �   �   �                       +---action
+�       �   �   �                       �   +---images
+�       �   �   �                       +---fieldassist
+�       �   �   �                       �   +---images
+�       �   �   �                       +---wizard
+�       �   �   �                           +---images
+�       �   �   +---239
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---org
+�       �   �   �               +---eclipse
+�       �   �   �                   +---jface
+�       �   �   �                       +---contentassist
+�       �   �   �                       �   +---images
+�       �   �   �                       +---text
+�       �   �   �                           +---source
+�       �   �   �                               +---projection
+�       �   �   �                                   +---images
+�       �   �   +---254
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---261
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---263
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---264
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---267
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---271
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---xsd
+�       �   �   +---274
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---277
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---298
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---310
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj16
+�       �   �   �               +---tool16
+�       �   �   +---320
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---336
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   +---338
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---347
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---354
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---eview16
+�       �   �   +---359
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   �                   +---progress
+�       �   �   �                   +---wizban
+�       �   �   +---360
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj16
+�       �   �   +---362
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---clcl16
+�       �   �   �                   +---cview16
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---elcl16
+�       �   �   +---363
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---364
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---366
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---367
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   +---368
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   +---371
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---374
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---eview16
+�       �   �   +---377
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---eview16
+�       �   �   +---378
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---eview16
+�       �   �   +---382
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---etool16
+�       �   �   +---386
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---388
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           +---language-servers
+�       �   �   �               +---server
+�       �   �   +---451
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   +---454
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   +---461
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---resources
+�       �   �   �               +---icons
+�       �   �   +---462
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---463
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---lib
+�       �   �   +---466
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---467
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   +---470
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   +---471
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---gradle-plugin
+�       �   �   +---472
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dependency
+�       �   �   +---479
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---lib
+�       �   �   +---480
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---lib
+�       �   �   +---489
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dtd
+�       �   �   �           +---icons
+�       �   �   �               +---launch
+�       �   �   �               +---view16
+�       �   �   +---65
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---69
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   +---86
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---os
+�       �   �   �               +---win32
+�       �   �   �                   +---x86_64
+�       �   �   +---96
+�       �   �       +---0
+�       �   �           +---.cp
+�       �   �               +---icons
+�       �   �                   +---full
+�       �   �                       +---dlcl16
+�       �   �                       +---dtool16
+�       �   �                       +---elcl16
+�       �   �                       +---etool16
+�       �   �                       +---obj16
+�       �   �                       +---wizban
+�       �   +---org.eclipse.ui.intro.universal
+�       �   +---org.eclipse.update
+�       +---dropins
+�       +---META-INF
+�       +---plugins
+�       +---readme
++---jee-2022-12
+�   +---eclipse
+�       +---.node
+�       �   +---node-v18.12.1-win-x64
+�       �       +---node_modules
+�       �           +---corepack
+�       �           �   +---dist
+�       �           �   +---shims
+�       �           �       +---nodewin
+�       �           +---npm
+�       �               +---bin
+�       �               �   +---node-gyp-bin
+�       �               +---docs
+�       �               �   +---content
+�       �               �   �   +---commands
+�       �               �   �   +---configuring-npm
+�       �               �   �   +---using-npm
+�       �               �   +---output
+�       �               �       +---commands
+�       �               �       +---configuring-npm
+�       �               �       +---using-npm
+�       �               +---lib
+�       �               �   +---auth
+�       �               �   +---commands
+�       �               �   +---utils
+�       �               �   �   +---completion
+�       �               �   �   +---config
+�       �               �   +---workspaces
+�       �               +---man
+�       �               �   +---man1
+�       �               �   +---man5
+�       �               �   +---man7
+�       �               +---node_modules
+�       �               �   +---@colors
+�       �               �   �   +---colors
+�       �               �   �       +---examples
+�       �               �   �       +---lib
+�       �               �   �       �   +---custom
+�       �               �   �       �   +---maps
+�       �               �   �       �   +---system
+�       �               �   �       +---themes
+�       �               �   +---@gar
+�       �               �   �   +---promisify
+�       �               �   +---@isaacs
+�       �               �   �   +---string-locale-compare
+�       �               �   +---@npmcli
+�       �               �   �   +---arborist
+�       �               �   �   �   +---bin
+�       �               �   �   �   �   +---lib
+�       �               �   �   �   +---lib
+�       �               �   �   �       +---arborist
+�       �               �   �   +---ci-detect
+�       �               �   �   �   +---lib
+�       �               �   �   +---config
+�       �               �   �   �   +---lib
+�       �               �   �   +---disparity-colors
+�       �               �   �   �   +---lib
+�       �               �   �   +---fs
+�       �               �   �   �   +---lib
+�       �               �   �   �       +---common
+�       �               �   �   �       +---cp
+�       �               �   �   �       +---rm
+�       �               �   �   +---git
+�       �               �   �   �   +---lib
+�       �               �   �   +---installed-package-contents
+�       �               �   �   �   +---node_modules
+�       �               �   �   �       +---npm-bundled
+�       �               �   �   +---map-workspaces
+�       �               �   �   �   +---lib
+�       �               �   �   +---metavuln-calculator
+�       �               �   �   �   +---lib
+�       �               �   �   +---move-file
+�       �               �   �   �   +---lib
+�       �               �   �   +---name-from-folder
+�       �               �   �   +---node-gyp
+�       �               �   �   �   +---lib
+�       �               �   �   +---package-json
+�       �               �   �   �   +---lib
+�       �               �   �   +---promise-spawn
+�       �               �   �   �   +---lib
+�       �               �   �   +---query
+�       �               �   �   �   +---lib
+�       �               �   �   +---run-script
+�       �               �   �       +---lib
+�       �               �   �           +---node-gyp-bin
+�       �               �   +---@tootallnate
+�       �               �   �   +---once
+�       �               �   �       +---dist
+�       �               �   +---abbrev
+�       �               �   +---agent-base
+�       �               �   �   +---dist
+�       �               �   �   �   +---src
+�       �               �   �   +---src
+�       �               �   +---agentkeepalive
+�       �               �   �   +---lib
+�       �               �   +---aggregate-error
+�       �               �   +---ansi-regex
+�       �               �   +---ansi-styles
+�       �               �   +---aproba
+�       �               �   +---archy
+�       �               �   �   +---examples
+�       �               �   +---are-we-there-yet
+�       �               �   �   +---lib
+�       �               �   +---asap
+�       �               �   +---balanced-match
+�       �               �   +---bin-links
+�       �               �   �   +---lib
+�       �               �   �   +---node_modules
+�       �               �   �       +---npm-normalize-package-bin
+�       �               �   �           +---lib
+�       �               �   +---binary-extensions
+�       �               �   +---brace-expansion
+�       �               �   +---builtins
+�       �               �   +---cacache
+�       �               �   �   +---lib
+�       �               �   �       +---content
+�       �               �   �       +---util
+�       �               �   +---chalk
+�       �               �   �   +---source
+�       �               �   +---chownr
+�       �               �   +---cidr-regex
+�       �               �   +---clean-stack
+�       �               �   +---cli-columns
+�       �               �   +---cli-table3
+�       �               �   �   +---src
+�       �               �   +---clone
+�       �               �   +---cmd-shim
+�       �               �   �   +---lib
+�       �               �   +---color-convert
+�       �               �   +---color-name
+�       �               �   +---color-support
+�       �               �   +---columnify
+�       �               �   +---common-ancestor-path
+�       �               �   +---concat-map
+�       �               �   �   +---example
+�       �               �   +---console-control-strings
+�       �               �   +---cssesc
+�       �               �   �   +---bin
+�       �               �   �   +---man
+�       �               �   +---debug
+�       �               �   �   +---node_modules
+�       �               �   �   �   +---ms
+�       �               �   �   +---src
+�       �               �   +---debuglog
+�       �               �   +---defaults
+�       �               �   +---delegates
+�       �               �   +---depd
+�       �               �   �   +---lib
+�       �               �   �       +---browser
+�       �               �   �       +---compat
+�       �               �   +---dezalgo
+�       �               �   +---diff
+�       �               �   �   +---dist
+�       �               �   �   +---lib
+�       �               �   �       +---convert
+�       �               �   �       +---diff
+�       �               �   �       +---patch
+�       �               �   �       +---util
+�       �               �   +---emoji-regex
+�       �               �   �   +---es2015
+�       �               �   +---encoding
+�       �               �   �   +---lib
+�       �               �   +---env-paths
+�       �               �   +---err-code
+�       �               �   +---fastest-levenshtein
+�       �               �   +---fs-minipass
+�       �               �   +---fs.realpath
+�       �               �   +---function-bind
+�       �               �   +---gauge
+�       �               �   �   +---lib
+�       �               �   +---glob
+�       �               �   +---graceful-fs
+�       �               �   +---has
+�       �               �   �   +---src
+�       �               �   +---has-flag
+�       �               �   +---has-unicode
+�       �               �   +---hosted-git-info
+�       �               �   �   +---lib
+�       �               �   +---http-cache-semantics
+�       �               �   +---http-proxy-agent
+�       �               �   �   +---dist
+�       �               �   +---https-proxy-agent
+�       �               �   �   +---dist
+�       �               �   +---humanize-ms
+�       �               �   +---iconv-lite
+�       �               �   �   +---encodings
+�       �               �   �   �   +---tables
+�       �               �   �   +---lib
+�       �               �   +---ignore-walk
+�       �               �   �   +---lib
+�       �               �   +---imurmurhash
+�       �               �   +---indent-string
+�       �               �   +---infer-owner
+�       �               �   +---inflight
+�       �               �   +---inherits
+�       �               �   +---ini
+�       �               �   �   +---lib
+�       �               �   +---init-package-json
+�       �               �   �   +---lib
+�       �               �   +---ip
+�       �               �   �   +---lib
+�       �               �   +---ip-regex
+�       �               �   +---is-cidr
+�       �               �   +---is-core-module
+�       �               �   +---is-fullwidth-code-point
+�       �               �   +---is-lambda
+�       �               �   +---isexe
+�       �               �   +---json-parse-even-better-errors
+�       �               �   +---json-stringify-nice
+�       �               �   +---jsonparse
+�       �               �   �   +---examples
+�       �               �   �   +---samplejson
+�       �               �   +---just-diff
+�       �               �   +---just-diff-apply
+�       �               �   +---libnpmaccess
+�       �               �   �   +---lib
+�       �               �   +---libnpmdiff
+�       �               �   �   +---lib
+�       �               �   +---libnpmexec
+�       �               �   �   +---lib
+�       �               �   +---libnpmfund
+�       �               �   �   +---lib
+�       �               �   +---libnpmhook
+�       �               �   �   +---lib
+�       �               �   +---libnpmorg
+�       �               �   �   +---lib
+�       �               �   +---libnpmpack
+�       �               �   �   +---lib
+�       �               �   +---libnpmpublish
+�       �               �   �   +---lib
+�       �               �   +---libnpmsearch
+�       �               �   �   +---lib
+�       �               �   +---libnpmteam
+�       �               �   �   +---lib
+�       �               �   +---libnpmversion
+�       �               �   �   +---lib
+�       �               �   +---lru-cache
+�       �               �   +---make-fetch-happen
+�       �               �   �   +---lib
+�       �               �   �       +---cache
+�       �               �   +---minimatch
+�       �               �   �   +---lib
+�       �               �   +---minipass
+�       �               �   +---minipass-collect
+�       �               �   +---minipass-fetch
+�       �               �   �   +---lib
+�       �               �   +---minipass-flush
+�       �               �   +---minipass-json-stream
+�       �               �   +---minipass-pipeline
+�       �               �   +---minipass-sized
+�       �               �   +---minizlib
+�       �               �   +---mkdirp
+�       �               �   �   +---bin
+�       �               �   �   +---lib
+�       �               �   +---mkdirp-infer-owner
+�       �               �   +---ms
+�       �               �   +---mute-stream
+�       �               �   +---negotiator
+�       �               �   �   +---lib
+�       �               �   +---node-gyp
+�       �               �   �   +---.github
+�       �               �   �   �   +---workflows
+�       �               �   �   +---bin
+�       �               �   �   +---docs
+�       �               �   �   +---gyp
+�       �               �   �   �   +---.github
+�       �               �   �   �   �   +---workflows
+�       �               �   �   �   +---data
+�       �               �   �   �   �   +---win
+�       �               �   �   �   +---pylib
+�       �               �   �   �   �   +---gyp
+�       �               �   �   �   �       +---generator
+�       �               �   �   �   +---tools
+�       �               �   �   �       +---emacs
+�       �               �   �   �       �   +---testdata
+�       �               �   �   �       +---Xcode
+�       �               �   �   �           +---Specifications
+�       �               �   �   +---lib
+�       �               �   �   +---node_modules
+�       �               �   �   �   +---brace-expansion
+�       �               �   �   �   +---glob
+�       �               �   �   �   +---minimatch
+�       �               �   �   �   +---nopt
+�       �               �   �   �       +---bin
+�       �               �   �   �       +---lib
+�       �               �   �   +---src
+�       �               �   +---nopt
+�       �               �   �   +---bin
+�       �               �   �   +---lib
+�       �               �   +---normalize-package-data
+�       �               �   �   +---lib
+�       �               �   +---npm-audit-report
+�       �               �   �   +---lib
+�       �               �   �       +---reporters
+�       �               �   +---npm-bundled
+�       �               �   �   +---lib
+�       �               �   �   +---node_modules
+�       �               �   �       +---npm-normalize-package-bin
+�       �               �   �           +---lib
+�       �               �   +---npm-install-checks
+�       �               �   �   +---lib
+�       �               �   +---npm-normalize-package-bin
+�       �               �   +---npm-package-arg
+�       �               �   �   +---lib
+�       �               �   +---npm-packlist
+�       �               �   �   +---bin
+�       �               �   �   +---lib
+�       �               �   �   +---node_modules
+�       �               �   �       +---npm-normalize-package-bin
+�       �               �   �           +---lib
+�       �               �   +---npm-pick-manifest
+�       �               �   �   +---lib
+�       �               �   �   +---node_modules
+�       �               �   �       +---npm-normalize-package-bin
+�       �               �   �           +---lib
+�       �               �   +---npm-profile
+�       �               �   �   +---lib
+�       �               �   +---npm-registry-fetch
+�       �               �   �   +---lib
+�       �               �   +---npm-user-validate
+�       �               �   +---npmlog
+�       �               �   �   +---lib
+�       �               �   +---once
+�       �               �   +---opener
+�       �               �   �   +---bin
+�       �               �   �   +---lib
+�       �               �   +---p-map
+�       �               �   +---pacote
+�       �               �   �   +---lib
+�       �               �   �       +---util
+�       �               �   +---parse-conflict-json
+�       �               �   �   +---lib
+�       �               �   +---path-is-absolute
+�       �               �   +---postcss-selector-parser
+�       �               �   �   +---dist
+�       �               �   �       +---selectors
+�       �               �   �       +---util
+�       �               �   +---proc-log
+�       �               �   �   +---lib
+�       �               �   +---promise-all-reject-late
+�       �               �   +---promise-call-limit
+�       �               �   +---promise-inflight
+�       �               �   +---promise-retry
+�       �               �   +---promzard
+�       �               �   �   +---example
+�       �               �   �       +---npm-init
+�       �               �   +---qrcode-terminal
+�       �               �   �   +---bin
+�       �               �   �   +---example
+�       �               �   �   +---lib
+�       �               �   �   +---vendor
+�       �               �   �       +---QRCode
+�       �               �   +---read
+�       �               �   �   +---lib
+�       �               �   +---read-cmd-shim
+�       �               �   �   +---lib
+�       �               �   +---read-package-json
+�       �               �   �   +---lib
+�       �               �   �   +---node_modules
+�       �               �   �       +---npm-normalize-package-bin
+�       �               �   �           +---lib
+�       �               �   +---read-package-json-fast
+�       �               �   +---readable-stream
+�       �               �   �   +---lib
+�       �               �   �       +---internal
+�       �               �   �           +---streams
+�       �               �   +---readdir-scoped-modules
+�       �               �   +---retry
+�       �               �   �   +---example
+�       �               �   �   +---lib
+�       �               �   +---rimraf
+�       �               �   �   +---node_modules
+�       �               �   �       +---brace-expansion
+�       �               �   �       +---glob
+�       �               �   �       +---minimatch
+�       �               �   +---safe-buffer
+�       �               �   +---safer-buffer
+�       �               �   +---semver
+�       �               �   �   +---bin
+�       �               �   �   +---classes
+�       �               �   �   +---functions
+�       �               �   �   +---internal
+�       �               �   �   +---node_modules
+�       �               �   �   �   +---lru-cache
+�       �               �   �   +---ranges
+�       �               �   +---set-blocking
+�       �               �   +---signal-exit
+�       �               �   +---smart-buffer
+�       �               �   �   +---build
+�       �               �   �   +---docs
+�       �               �   �   +---typings
+�       �               �   +---socks
+�       �               �   �   +---build
+�       �               �   �   �   +---client
+�       �               �   �   �   +---common
+�       �               �   �   +---docs
+�       �               �   �   �   +---examples
+�       �               �   �   �       +---javascript
+�       �               �   �   �       +---typescript
+�       �               �   �   +---typings
+�       �               �   �       +---client
+�       �               �   �       +---common
+�       �               �   +---socks-proxy-agent
+�       �               �   �   +---dist
+�       �               �   +---spdx-correct
+�       �               �   +---spdx-exceptions
+�       �               �   +---spdx-expression-parse
+�       �               �   +---spdx-license-ids
+�       �               �   +---ssri
+�       �               �   �   +---lib
+�       �               �   +---string-width
+�       �               �   +---string_decoder
+�       �               �   �   +---lib
+�       �               �   +---strip-ansi
+�       �               �   +---supports-color
+�       �               �   +---tar
+�       �               �   �   +---lib
+�       �               �   +---text-table
+�       �               �   �   +---example
+�       �               �   +---tiny-relative-date
+�       �               �   �   +---lib
+�       �               �   �   +---src
+�       �               �   �   +---translations
+�       �               �   +---treeverse
+�       �               �   �   +---lib
+�       �               �   +---unique-filename
+�       �               �   �   +---lib
+�       �               �   +---unique-slug
+�       �               �   �   +---lib
+�       �               �   +---util-deprecate
+�       �               �   +---validate-npm-package-license
+�       �               �   +---validate-npm-package-name
+�       �               �   �   +---lib
+�       �               �   +---walk-up-path
+�       �               �   +---wcwidth
+�       �               �   �   +---docs
+�       �               �   +---which
+�       �               �   �   +---bin
+�       �               �   +---wide-align
+�       �               �   +---wrappy
+�       �               �   +---write-file-atomic
+�       �               �   �   +---lib
+�       �               �   +---yallist
+�       �               +---tap-snapshots
+�       +---configuration
+�       �   +---.settings
+�       �   +---org.eclipse.core.runtime
+�       �   �   +---.manager
+�       �   +---org.eclipse.e4.ui.css.swt.theme
+�       �   +---org.eclipse.epp.mpc.ui
+�       �   +---org.eclipse.equinox.app
+�       �   �   +---.manager
+�       �   +---org.eclipse.equinox.simpleconfigurator
+�       �   +---org.eclipse.oomph.setup
+�       �   +---org.eclipse.osgi
+�       �   �   +---.manager
+�       �   �   +---103
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   +---104
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---107
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---eview16
+�       �   �   +---111
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   �                   +---wizban
+�       �   �   +---124
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---os
+�       �   �   �               +---win32
+�       �   �   �                   +---x86_64
+�       �   �   +---133
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---156
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---clcl16
+�       �   �   �                   +---cview16
+�       �   �   �                   +---elcl16
+�       �   �   +---218
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---intro
+�       �   �   �           �   +---css
+�       �   �   �           �       +---graphics
+�       �   �   �           �           +---obj_48
+�       �   �   �           +---META-INF
+�       �   �   �               +---maven
+�       �   �   �                   +---org.eclipse.datatools.plugins
+�       �   �   �                       +---org.eclipse.datatools.intro
+�       �   �   +---22
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---jakarta
+�       �   �   �               +---servlet
+�       �   �   �                   +---resources
+�       �   �   +---258
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---images
+�       �   �   +---261
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---287
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---288
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---ovr16
+�       �   �   +---289
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---images
+�       �   �   +---301
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   +---302
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---304
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---cheatsheets
+�       �   �   �           +---contexts
+�       �   �   �           +---help
+�       �   �   �           �   +---EGit
+�       �   �   �           �   �   +---Contributor_Guide
+�       �   �   �           �   �   �   +---images
+�       �   �   �           �   �   +---Git_For_Eclipse_Users
+�       �   �   �           �   �   +---New_and_Noteworthy
+�       �   �   �           �   �   �   +---6.4
+�       �   �   �           �   �   +---User_Guide
+�       �   �   �           �   �       +---images
+�       �   �   �           �   +---images
+�       �   �   �           �   �   +---topiclabel
+�       �   �   �           �   +---JGit
+�       �   �   �           �       +---New_and_Noteworthy
+�       �   �   �           �       �   +---6.4
+�       �   �   �           �       +---User_Guide
+�       �   �   �           �           +---images
+�       �   �   �           +---images
+�       �   �   �           �   +---topiclabel
+�       �   �   �           +---intro
+�       �   �   �           �   +---css
+�       �   �   �           +---META-INF
+�       �   �   �               +---maven
+�       �   �   �                   +---org.eclipse.egit
+�       �   �   �                       +---org.eclipse.egit.doc
+�       �   �   +---305
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---elcl16
+�       �   �   �               +---etool16
+�       �   �   �               +---eview16
+�       �   �   �               +---obj16
+�       �   �   �               +---wizban
+�       �   �   +---311
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---341
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           +---intro
+�       �   �   �           �   +---css
+�       �   �   �           +---META-INF
+�       �   �   �           +---org
+�       �   �   �           �   +---eclipse
+�       �   �   �           �       +---epp
+�       �   �   �           �           +---internal
+�       �   �   �           �           �   +---mpc
+�       �   �   �           �           �       +---ui
+�       �   �   �           �           �           +---actions
+�       �   �   �           �           �           +---catalog
+�       �   �   �           �           �           +---commands
+�       �   �   �           �           �           +---discovery
+�       �   �   �           �           �           +---operations
+�       �   �   �           �           �           +---preferences
+�       �   �   �           �           �           +---urlhandling
+�       �   �   �           �           �           +---util
+�       �   �   �           �           �           +---wizards
+�       �   �   �           �           �               +---css
+�       �   �   �           �           +---mpc
+�       �   �   �           �               +---ui
+�       �   �   �           +---OSGI-INF
+�       �   �   �               +---l10n
+�       �   �   �               +---services
+�       �   �   +---369
+�       �   �   �   +---data
+�       �   �   �       +----1870652701
+�       �   �   +---377
+�       �   �   �   +---data
+�       �   �   �       +---listener_1925729951
+�       �   �   +---383
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj
+�       �   �   �               +---wizban
+�       �   �   +---384
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---wizban
+�       �   �   +---385
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj16
+�       �   �   +---386
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj
+�       �   �   +---389
+�       �   �   �   +---data
+�       �   �   �       +----1066803276
+�       �   �   �       +----1300879512
+�       �   �   �       +----302065131
+�       �   �   �       +----349023364
+�       �   �   �       +----511591105
+�       �   �   �       +---1674986177
+�       �   �   �       +---2000323103
+�       �   �   �       +---2036252460
+�       �   �   �       +---857315922
+�       �   �   +---394
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---396
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---org
+�       �   �   �               +---eclipse
+�       �   �   �                   +---gef
+�       �   �   �                       +---internal
+�       �   �   �                           +---icons
+�       �   �   +---398
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---401
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---cheatsheets
+�       �   �   �           +---images
+�       �   �   �           �   +---topiclabel
+�       �   �   �           +---intro
+�       �   �   �           �   +---css
+�       �   �   �           +---META-INF
+�       �   �   +---413
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---415
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---420
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---lib
+�       �   �   +---421
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dictionaries
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   �                   +---wizban
+�       �   �   +---440
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           �   +---full
+�       �   �   �           +---org
+�       �   �   �               +---eclipse
+�       �   �   �                   +---jface
+�       �   �   �                       +---action
+�       �   �   �                       �   +---images
+�       �   �   �                       +---fieldassist
+�       �   �   �                       �   +---images
+�       �   �   �                       +---wizard
+�       �   �   �                           +---images
+�       �   �   +---442
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---eview16
+�       �   �   +---443
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---org
+�       �   �   �               +---eclipse
+�       �   �   �                   +---jface
+�       �   �   �                       +---contentassist
+�       �   �   �                       �   +---images
+�       �   �   �                       +---text
+�       �   �   �                           +---source
+�       �   �   �                               +---projection
+�       �   �   �                                   +---images
+�       �   �   +---453
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---schemas
+�       �   �   +---464
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---images
+�       �   �   +---466
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---475
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---images
+�       �   �   �               +---buttons
+�       �   �   �               +---views
+�       �   �   +---484
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---images
+�       �   �   +---487
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---ctool16
+�       �   �   +---499
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---ctool16
+�       �   �   +---500
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   +---501
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---ctool16
+�       �   �   �                   +---cview16
+�       �   �   �                   +---wizban
+�       �   �   +---508
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---516
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dtd
+�       �   �   +---523
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �               �   +---etool16
+�       �   �   �               +---snippets
+�       �   �   +---525
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---533
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj16
+�       �   �   �               +---wizban
+�       �   �   +---537
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---ctool16
+�       �   �   +---539
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dtdsAndSchemas
+�       �   �   +---554
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---556
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---ctool16
+�       �   �   +---559
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---ctool16
+�       �   �   +---576
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---577
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---eview16
+�       �   �   +---579
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---581
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---590
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---595
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---596
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---597
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---help
+�       �   �   �           +---icons
+�       �   �   �           +---intro
+�       �   �   �           �   +---css
+�       �   �   �           +---META-INF
+�       �   �   �           �   +---maven
+�       �   �   �           �       +---org.eclipse.m2e
+�       �   �   �           �           +---org.eclipse.m2e.core.ui
+�       �   �   �           +---org
+�       �   �   �           �   +---eclipse
+�       �   �   �           �       +---m2e
+�       �   �   �           �           +---core
+�       �   �   �           �               +---ui
+�       �   �   �           �                   +---internal
+�       �   �   �           �                       +---actions
+�       �   �   �           �                       +---archetype
+�       �   �   �           �                       +---components
+�       �   �   �           �                       +---console
+�       �   �   �           �                       +---dialogs
+�       �   �   �           �                       +---editing
+�       �   �   �           �                       +---lifecyclemapping
+�       �   �   �           �                       +---markers
+�       �   �   �           �                       +---preferences
+�       �   �   �           �                       �   +---launch
+�       �   �   �           �                       +---project
+�       �   �   �           �                       +---search
+�       �   �   �           �                       �   +---util
+�       �   �   �           �                       +---util
+�       �   �   �           �                       +---views
+�       �   �   �           �                       �   +---build
+�       �   �   �           �                       �   +---nodes
+�       �   �   �           �                       +---wizards
+�       �   �   �           +---OSGI-INF
+�       �   �   �           +---schema
+�       �   �   +---599
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---600
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---602
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---603
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---607
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---xsd
+�       �   �   +---613
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---614
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---616
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---618
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---jars
+�       �   �   +---624
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---643
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---651
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---655
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj16
+�       �   �   �               +---tool16
+�       �   �   +---665
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---669
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---678
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---cheatsheets
+�       �   �   �           �   +---helloworld
+�       �   �   �           �   +---rcpapp
+�       �   �   �           +---images
+�       �   �   �           �   +---topiclabel
+�       �   �   �           +---intro
+�       �   �   �           �   +---css
+�       �   �   �           +---META-INF
+�       �   �   +---681
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---692
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---693
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---695
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---696
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---697
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---698
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---701
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---etool16
+�       �   �   �               +---obj16
+�       �   �   +---705
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---org
+�       �   �   �               +---eclipse
+�       �   �   �                   +---persistence
+�       �   �   +---712
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   +---714
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---717
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---eview16
+�       �   �   +---723
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---48
+�       �   �   +---724
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---eview16
+�       �   �   +---726
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   +---728
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---clcl16
+�       �   �   �               +---dlcl16
+�       �   �   �               +---elcl16
+�       �   �   +---730
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---clcl16
+�       �   �   �               +---dlcl16
+�       �   �   �               +---elcl16
+�       �   �   �               +---eview16
+�       �   �   +---736
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   �                   +---pref
+�       �   �   �                   +---progress
+�       �   �   �                   +---wizban
+�       �   �   +---737
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---obj16
+�       �   �   +---739
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---clcl16
+�       �   �   �                   +---cview16
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---elcl16
+�       �   �   +---740
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---741
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---743
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---744
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   �                   +---obj16
+�       �   �   �                   +---wizban
+�       �   �   +---745
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   +---746
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           �   +---full
+�       �   �   �           �       +---dlcl16
+�       �   �   �           �       +---elcl16
+�       �   �   �           +---javascript
+�       �   �   +---748
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           �   +---full
+�       �   �   �           �       +---elcl16
+�       �   �   �           �       +---obj16
+�       �   �   �           +---META-INF
+�       �   �   �           +---org
+�       �   �   �           �   +---eclipse
+�       �   �   �           �       +---ui
+�       �   �   �           �           +---internal
+�       �   �   �           �           �   +---intro
+�       �   �   �           �           �       +---universal
+�       �   �   �           �           �           +---contentdetect
+�       �   �   �           �           �           +---util
+�       �   �   �           �           +---intro
+�       �   �   �           �               +---universal
+�       �   �   �           +---themes
+�       �   �   �               +---circles
+�       �   �   �               �   +---graphics
+�       �   �   �               �   �   +---contentpage
+�       �   �   �               �   �   +---icons
+�       �   �   �               �   �   �   +---ctool
+�       �   �   �               �   �   �   +---obj48
+�       �   �   �               �   �   +---launchbar
+�       �   �   �               �   �   +---rootpage
+�       �   �   �               �   �   +---standby
+�       �   �   �               �   +---html
+�       �   �   �               �   +---swt
+�       �   �   �               +---purpleMesh
+�       �   �   �               �   +---graphics
+�       �   �   �               �   �   +---contentpage
+�       �   �   �               �   �   +---icons
+�       �   �   �               �   �   �   +---ctool
+�       �   �   �               �   �   �   +---dtool
+�       �   �   �               �   �   �   +---etool
+�       �   �   �               �   �   �   +---obj48
+�       �   �   �               �   �   +---launchbar
+�       �   �   �               �   �   +---root
+�       �   �   �               �   �   +---swt
+�       �   �   �               �   +---html
+�       �   �   �               �   +---swt
+�       �   �   �               +---shared
+�       �   �   �               �   +---graphics
+�       �   �   �               �   �   +---icons
+�       �   �   �               �   �       +---ctool
+�       �   �   �               �   +---html
+�       �   �   �               +---slate
+�       �   �   �               �   +---graphics
+�       �   �   �               �   �   +---contentpage
+�       �   �   �               �   �   +---icons
+�       �   �   �               �   �   �   +---ctool
+�       �   �   �               �   �   +---launchbar
+�       �   �   �               �   �   +---rootpage
+�       �   �   �               �   �   +---standby
+�       �   �   �               �   +---html
+�       �   �   �               �   +---swt
+�       �   �   �               +---solstice
+�       �   �   �                   +---graphics
+�       �   �   �                   �   +---contentpage
+�       �   �   �                   �   +---icons
+�       �   �   �                   �   �   +---ctool
+�       �   �   �                   �   +---launchbar
+�       �   �   �                   �   +---rootpage
+�       �   �   �                   +---html
+�       �   �   �                   +---swt
+�       �   �   +---750
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   +---751
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---eview16
+�       �   �   +---755
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---eview16
+�       �   �   +---756
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---eview16
+�       �   �   +---760
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dtool16
+�       �   �   �                   +---etool16
+�       �   �   �                   +---eview16
+�       �   �   +---764
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---769
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           +---language-servers
+�       �   �   �               +---server
+�       �   �   +---774
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---786
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---clcl16
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---obj16
+�       �   �   +---789
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---cssprofile
+�       �   �   +---790
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   �                   +---wizban
+�       �   �   +---792
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---obj16
+�       �   �   +---796
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   �                   +---wizban
+�       �   �   +---800
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---libraries
+�       �   �   +---802
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   +---812
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---clcl16
+�       �   �   �               +---cview16
+�       �   �   �               +---dlcl16
+�       �   �   �               +---dtool16
+�       �   �   �               +---elcl16
+�       �   �   �               +---etool16
+�       �   �   �               +---obj16
+�       �   �   �               +---wizban
+�       �   �   +---815
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---dlcl16
+�       �   �   �                   +---elcl16
+�       �   �   �                   +---obj16
+�       �   �   +---817
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dtds
+�       �   �   �           +---xsd
+�       �   �   +---820
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---822
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---ctool16
+�       �   �   +---824
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---etool16
+�       �   �   +---831
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---838
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   �                   +---obj16
+�       �   �   +---851
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---xslt-schemas
+�       �   �   +---864
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---content
+�       �   �   �           +---css
+�       �   �   �           +---icons
+�       �   �   �           +---images
+�       �   �   �           +---META-INF
+�       �   �   �               +---maven
+�       �   �   �                   +---org.eclipse.webtools.releng
+�       �   �   �                       +---org.eclipse.wtp.epp.package.jee.intro
+�       �   �   +---869
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---cache
+�       �   �   �               +---www.w3.org
+�       �   �   �                   +---2001
+�       �   �   +---932
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           �   +---full
+�       �   �   �           �       +---elcl16
+�       �   �   �           �       +---obj16
+�       �   �   �           +---resources
+�       �   �   �               +---highlight.min.js
+�       �   �   �                   +---styles
+�       �   �   +---939
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---resources
+�       �   �   �               +---icons
+�       �   �   +---940
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---941
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---lib
+�       �   �   +---944
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   +---945
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   +---948
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �               +---full
+�       �   �   �                   +---etool16
+�       �   �   �                   +---wizban
+�       �   �   +---949
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---gradle-plugin
+�       �   �   +---950
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dependency
+�       �   �   +---957
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---lib
+�       �   �   +---958
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---lib
+�       �   �   +---967
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---dtd
+�       �   �   �           +---icons
+�       �   �   �               +---launch
+�       �   �   �               +---view16
+�       �   �   +---968
+�       �   �   �   +---0
+�       �   �   �       +---.cp
+�       �   �   �           +---icons
+�       �   �   �           +---libs
+�       �   �   +---969
+�       �   �       +---0
+�       �   �           +---.cp
+�       �   �               +---icons
+�       �   �               +---libs
+�       �   +---org.eclipse.ui.intro.universal
+�       �   +---org.eclipse.update
+�       �   +---org.eclipse.wst.server.discovery
+�       +---dropins
+�       +---META-INF
+�       +---plugins
+�       +---readme
++---jee-2022-122
+    +---eclipse
+        +---configuration
+        �   +---.settings
+        �   +---org.eclipse.core.runtime
+        �   �   +---.manager
+        �   +---org.eclipse.equinox.app
+        �   �   +---.manager
+        �   +---org.eclipse.equinox.simpleconfigurator
+        �   +---org.eclipse.oomph.setup
+        �   +---org.eclipse.osgi
+        �   �   +---.manager
+        �   �   +---369
+        �   �   �   +---data
+        �   �   �       +----1870652701
+        �   �   +---377
+        �   �   �   +---data
+        �   �   �       +---listener_1925729951
+        �   �   +---389
+        �   �   �   +---data
+        �   �   �       +----2129379321
+        �   �   +---440
+        �   �   �   +---0
+        �   �   �       +---.cp
+        �   �   �           +---icons
+        �   �   �           �   +---full
+        �   �   �           +---org
+        �   �   �               +---eclipse
+        �   �   �                   +---jface
+        �   �   �                       +---fieldassist
+        �   �   �                           +---images
+        �   �   +---554
+        �   �   �   +---0
+        �   �   �       +---.cp
+        �   �   +---618
+        �   �   �   +---0
+        �   �   �       +---.cp
+        �   �   �           +---jars
+        �   �   +---714
+        �   �       +---0
+        �   �           +---.cp
+        �   +---org.eclipse.update
+        +---dropins
+        +---plugins
+        +---readme
+
+Código:0
